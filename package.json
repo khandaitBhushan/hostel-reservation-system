@@ -1,12 +1,7 @@
-{
-  "name": "project",
-  "version": "1.0.0",
-  "description": "📌 Hostel Room Reservation System A simple Java-based backend project using JDBC and MySQL to simulate a hostel room booking system. It supports core operations like reserving, canceling, updating, and fetching reservations using a CLI-based interface.",
-  "main": "script.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC"
-}
+@@ .. @@
+   "scripts": {
+-    "test": "echo \"Error: no test specified\" && exit 1"
++    "dev": "vite",
++    "build": "vite build",
++    "preview": "vite preview"
+   },
